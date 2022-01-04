@@ -1,0 +1,15 @@
+.product-cards--container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.bitcoin-img-container{
+    height: 70vh;
+}
+
+.bitcoin-img-container h2 {
+    padding-top: 35vh;
+}
+
